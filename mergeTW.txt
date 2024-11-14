@@ -1,0 +1,1 @@
+Ensinaram a fazer um merge quando tem o msm branch com alterações diferentes escritos
